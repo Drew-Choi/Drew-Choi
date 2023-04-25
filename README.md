@@ -77,7 +77,7 @@ I'm growing up dreaming of a Full-stack-Dev.
 <p align="center">
    --- used at least once ---
   <br />
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=000000">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Flask-585858?style=flat&logo=flask&logoColor=eeeeee"/>
 </p>
