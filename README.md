@@ -83,4 +83,7 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/Flask-585858?style=flat&logo=flask&logoColor=eeeeee"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-Choi&show_icons=true&theme=radical)
+  <br />
+  <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-Choi&show_icons=true&theme=gruvbox_light)
