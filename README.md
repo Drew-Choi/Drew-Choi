@@ -1,10 +1,10 @@
 <div align="center">
-  <img src= 'https://capsule-render.vercel.app/api?type=rounded&color=auto&customColorList=17&height=150&section=header&text=dev%20D&fontSize=50&fontAlignY=40&desc=Hello,%20Welcome%20to%20DREW_CHOI's%20World&descAlignY=70&animation=fadeIn' />
+  <img src= 'https://capsule-render.vercel.app/api?type=rounded&color=auto&customColorList=3&height=150&section=header&text=dev%20D&fontSize=50&fontAlignY=40&desc=Hello,%20Welcome%20to%20DREW_CHOI's%20World&descAlignY=70&animation=fadeIn' />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Drew-Choi&show_icons=true&theme=solarized-light" />
-  <img style= "height= 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Choi&layout=compact&theme=solarized-light"/>
+  <img style= "height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Choi&layout=compact&theme=solarized-light"/>
 </div>
 
 <br/>
