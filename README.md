@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&customColorList=17&height=150&section=header&text=dev%20D&fontSize=50&fontAlignY=40&desc=Hello,%20Welcome%20to%20DREW_CHOI's%20World&descAlignY=70&animation=fadeIn)
 
 <br/>
@@ -88,3 +89,5 @@ I'm growing up dreaming of a Full-stack-Dev.
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-Choi&show_icons=true&theme=gruvbox_light)
+
+  </div>
