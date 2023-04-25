@@ -2,6 +2,11 @@
 <br/>
 <br/>
 
+<p align='center'>
+The best position is Front-end,
+I'm growing up dreaming of a Full-stack-Dev.
+</p>
+
 <h3  align="center">🛠 Stack ⚙️<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
