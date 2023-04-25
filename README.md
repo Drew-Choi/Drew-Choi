@@ -18,5 +18,5 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=000000"/>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=000000"/>
   <img src="https://img.shields.io/badge/CssModules-585858?style=flat&logo=CssModules&logoColor=eeeeee"/>
-  <img src="https://img.shields.io/badge/NodedotJS-339933?style=flat&logo=NodedotJS&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=NodedotJS&logoColor=000000"/>
 </p>
