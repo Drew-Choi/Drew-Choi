@@ -1,10 +1,10 @@
 <div align="center">
   <img src= 'https://capsule-render.vercel.app/api?type=rounded&color=auto&customColorList=17&height=150&section=header&text=dev%20D&fontSize=50&fontAlignY=40&desc=Hello,%20Welcome%20to%20DREW_CHOI's%20World&descAlignY=70&animation=fadeIn' />
 </div>
-<div align="center">
+<center>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-Choi&show_icons=true&theme=gruvbox_light)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Choi&layout=compact)](https://github.com/Drew-Choi/github-readme-stats)
-</div>
+</center>
 <br/>
 <br/>
 <h3 align="center">🧑‍💻  Intro  🧑‍💻</h3>
