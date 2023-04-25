@@ -3,5 +3,5 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/javascript-inactive?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
 </p>
