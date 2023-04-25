@@ -4,7 +4,7 @@
 
 <h3  align="center">🛠 Stack ⚙️<h3>
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=000000"/>
 </p>
