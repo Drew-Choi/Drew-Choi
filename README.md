@@ -3,11 +3,12 @@
 <br/>
 <h3 align="center">🧑‍💻  Intro  🧑‍💻</h3>
 <p align='center'>
-<br/>
 The best position is Front-end,
 <br/>
 I'm growing up dreaming of a Full-stack-Dev.
 </p>
+
+<br />
 
 <h3  align="center">🛠 Stack ⚙️</h3>
 <p align="center">
