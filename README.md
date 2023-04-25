@@ -3,7 +3,10 @@
 <br/>
 
 <p align='center'>
+Intro...
+<br/>
 The best position is Front-end,
+<br/>
 I'm growing up dreaming of a Full-stack-Dev.
 </p>
 
