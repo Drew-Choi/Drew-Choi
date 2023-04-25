@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drew-Choi&show_icons=true&theme=gruvbox_light)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Choi&layout=compact&theme=gruvbox_light"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Drew-Choi&show_icons=true&theme=solarized-light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew-Choi&layout=compact&theme=solarized-light"/>
 </div>
 
 <br/>
