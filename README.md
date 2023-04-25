@@ -2,8 +2,10 @@
 <br/>
 <br/>
 
-<p align="center">
-<h3>🛠 Stack 🛠<h3>
+<h3  align="center">🛠 Stack ⚙️<h3>
   <br />
+<p align="center">
+
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
 </p>
