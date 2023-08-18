@@ -22,7 +22,7 @@ I'm growing up dreaming of a Full-stack-Dev.
 <p align="center">
   --- Front-End ---
   <br />
-  <img src="https://img.shields.io/badge/nextdotjs-ffffff?style=flat&logo=Next.js&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
