@@ -33,9 +33,9 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/CssModules-585858?style=flat&logo=CssModules&logoColor=eeeeee"/>
   <img src="https://img.shields.io/badge/MUI-585858?style=flat&logo=mui&logoColor=007FFF"/>
   <br/>
-  <img src="https://img.shields.io/badge/Recoil-000000?style=flat&logo=recoil&logoColor=3578E5"/>
+  <img src="https://img.shields.io/badge/Recoil-ffffff?style=flat&logo=recoil&logoColor=3578E5"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=FF4154"/>
+  <img src="https://img.shields.io/badge/ReactQuery-ffffff?style=flat&logo=reactquery&logoColor=FF4154"/>
 </p>
 
   <br />
