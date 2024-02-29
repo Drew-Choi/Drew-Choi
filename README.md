@@ -39,6 +39,8 @@ I'm growing up dreaming of a Full-stack-Dev.
   <br/>
   <img src="https://img.shields.io/badge/Stomp.JS(WS)-585858?style=flat&logo=&logoColor=FF4154"/>
   <img src="https://img.shields.io/badge/NextAuth.JS-585858?style=flat&logo=&logoColor=FF4154"/>
+  <img src="https://img.shields.io/badge/AmazonS3-FF9900?style=flat&logo=amazons3&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/AmazonCloudFront-FF9900?style=flat&logo=&logoColor=000000"/>
 </p>
 
   <br />
@@ -53,7 +55,6 @@ I'm growing up dreaming of a Full-stack-Dev.
     <br/>
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=000000"/>
   <img src="https://img.shields.io/badge/AmazonS3-FF9900?style=flat&logo=amazons3&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/AmazonCloudFront-FF9900?style=flat&logo=&logoColor=000000"/>
 </p>
   
   <br />
