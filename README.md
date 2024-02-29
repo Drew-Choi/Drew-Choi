@@ -25,9 +25,8 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=000000"/>
   <br/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=000000"/>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=000000"/>
@@ -48,7 +47,6 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=NodedotJS&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Express.JS-585858?style=flat&logo=express&logoColor=eeeeee"/>
   <img src="https://img.shields.io/badge/Nodemon.JS-76D04B?style=flat&logo=nodemon&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Dotenv-ECD53F?style=flat&logo=dotenv&logoColor=000000"/>
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=000000"/>
     <br/>
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=000000"/>
@@ -60,7 +58,6 @@ I'm growing up dreaming of a Full-stack-Dev.
     --- DB ---
   <br />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=000000"/>
  </p>
   
   <br />
@@ -89,6 +86,7 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=000000">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Flask-585858?style=flat&logo=flask&logoColor=eeeeee"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=000000"/>
 </p>
 
   <br />
