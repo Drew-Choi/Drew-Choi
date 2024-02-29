@@ -28,12 +28,12 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
   <br/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Sass(Scss)-CC6699?style=flat&logo=Sass&logoColor=000000"/>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=000000"/>
   <img src="https://img.shields.io/badge/CssModules-585858?style=flat&logo=CssModules&logoColor=eeeeee"/>
-  <img src="https://img.shields.io/badge/MUI-76D04B?style=flat&logo=mui&logoColor=007FFF"/>
+  <img src="https://img.shields.io/badge/MUI-585858?style=flat&logo=mui&logoColor=007FFF"/>
   <br/>
-  <img src="https://img.shields.io/badge/Recoil-6332F6?style=flat&logo=recoil&logoColor=3578E5"/>
+  <img src="https://img.shields.io/badge/Recoil-3178C6?style=flat&logo=recoil&logoColor=3578E5"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=FF4154"/>
 </p>
