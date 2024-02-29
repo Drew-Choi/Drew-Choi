@@ -27,17 +27,15 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/ReactQuery-F7DF1E?style=flat&logo=ReactQuery&logoColor=FF4154"/>
   <br/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=000000"/>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=000000"/>
   <img src="https://img.shields.io/badge/CssModules-585858?style=flat&logo=CssModules&logoColor=eeeeee"/>
-  <img src="https://img.shields.io/badge/Bootstrap-76D04B?style=flat&logo=bootstrap&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=000000"/>
-    <br/>
+  <img src="https://img.shields.io/badge/MUI-76D04B?style=flat&logo=mui&logoColor=007FFF"/>
+  <br/>
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=swiper&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=FF4154"/>
 </p>
 
   <br />
