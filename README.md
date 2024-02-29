@@ -82,7 +82,7 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/PremierePro-9999FF?style=flat&logo=adobepremierepro&logoColor=000000"/>
   <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=adobephotoshop&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/Yarn-31A8FF?style=flat&logo=yarn&logoColor=2C8EBB"/>
+    <img src="https://img.shields.io/badge/Yarn-9999FF?style=flat&logo=yarn&logoColor=2C8EBB"/>
 </p>
   
   <br />
