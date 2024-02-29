@@ -27,6 +27,7 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=000000"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/ReactQuery-F7DF1E?style=flat&logo=ReactQuery&logoColor=FF4154"/>
   <br/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=000000"/>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=000000"/>
