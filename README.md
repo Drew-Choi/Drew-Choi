@@ -37,8 +37,8 @@ I'm growing up dreaming of a Full-stack-Dev.
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=000000"/>
   <img src="https://img.shields.io/badge/ReactQuery-ffffff?style=flat&logo=reactquery&logoColor=FF4154"/>
   <br/>
-  <img src="https://img.shields.io/badge/Stomp.JS(WS)-ffffff?style=flat&logo=&logoColor=FF4154"/>
-  <img src="https://img.shields.io/badge/NextAuth.JS-ffffff?style=flat&logo=reactquery&logoColor=FF4154"/>
+  <img src="https://img.shields.io/badge/Stomp.JS(WS)-585858?style=flat&logo=&logoColor=FF4154"/>
+  <img src="https://img.shields.io/badge/NextAuth.JS-585858?style=flat&logo=&logoColor=FF4154"/>
 </p>
 
   <br />
